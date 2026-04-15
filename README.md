@@ -5,7 +5,7 @@
 
 <!-- Typing Animation -->
 <a href="https://github.com/Aditya36999">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Aditya+%F0%9F%91%8B;Full+Stack+Developer;Open+Source+Contributor;Always+Learning+Something+New+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Aditya+;AI+ML+Developer;Open+Source+Contributor;Always+Learning+Something+New+%F0%9F%9A%80" alt="Typing SVG" />
 </a>
 
 <br/>
