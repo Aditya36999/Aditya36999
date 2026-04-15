@@ -21,34 +21,34 @@
 
 ---
 
-## 🧭 About Me
+##  About Me
 
 <img align="right" width="280" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="coding gif" />
 
 ```yaml
 name:      Aditya
 username:  Aditya36999
-location:  India 🇮🇳
+location:  India 
 role:      Full Stack Developer
 focus:     Building things that matter
 status:    Always open to collaborate
 ```
 
-- 🔭 Currently working on exciting personal & open-source projects
-- 🌱 Constantly learning and leveling up my skills
-- 💡 I love turning ideas into real-world solutions
-- 🤝 Open to collaborating on interesting projects
-- ⚡ Fun fact: I debug with `console.log` and I'm not ashamed
+-  Currently working on exciting personal & open-source projects
+-  Constantly learning and leveling up my skills
+-  I love turning ideas into real-world solutions
+-  Open to collaborating on interesting projects
+-  Fun fact: I debug with `console.log` and I'm not ashamed
 
 <br clear="right"/>
 
 ---
 
-## 🛠️ Tech Stack & Tools
+##  Tech Stack & Tools
 
 <div align="center">
 
-### 💻 Languages
+###  Languages
 <p>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
@@ -57,7 +57,7 @@ status:    Always open to collaborate
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 </p>
 
-### 🚀 Frameworks & Libraries
+###  Frameworks & Libraries
 <p>
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
@@ -66,7 +66,7 @@ status:    Always open to collaborate
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
 </p>
 
-### 🗄️ Databases & Cloud
+###  Databases & Cloud
 <p>
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
@@ -74,7 +74,7 @@ status:    Always open to collaborate
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
 </p>
 
-### 🔧 Tools & Platforms
+###  Tools & Platforms
 <p>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
@@ -88,7 +88,7 @@ status:    Always open to collaborate
 
 ---
 
-## 📊 GitHub Stats
+##  GitHub Stats
 
 <div align="center">
 
@@ -103,7 +103,7 @@ status:    Always open to collaborate
 
 ---
 
-## 🏆 GitHub Trophies
+##  GitHub Trophies
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Aditya36999&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=4" />
@@ -111,7 +111,7 @@ status:    Always open to collaborate
 
 ---
 
-## 📌 Featured Projects
+##  Featured Projects
 
 <div align="center">
 
@@ -124,11 +124,11 @@ status:    Always open to collaborate
 
 </div>
 
-> ⚠️ **Note:** Replace `REPLACE_WITH_REPO_1` and `REPLACE_WITH_REPO_2` above with your actual repository names.
+>  **Note:** Replace `REPLACE_WITH_REPO_1` and `REPLACE_WITH_REPO_2` above with your actual repository names.
 
 ---
 
-## 📈 Contribution Graph
+##  Contribution Graph
 
 <div align="center">
   <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Aditya36999&bg_color=0d1117&color=a78bfa&line=7c3aed&point=f59e0b&area=true&hide_border=true" />
@@ -136,34 +136,7 @@ status:    Always open to collaborate
 
 ---
 
-## 🎯 2025 Goals
-
-<table align="center">
-  <tr>
-    <td>✅</td>
-    <td>Build and ship meaningful open-source projects</td>
-  </tr>
-  <tr>
-    <td>🔄</td>
-    <td>Master system design & architecture patterns</td>
-  </tr>
-  <tr>
-    <td>🔄</td>
-    <td>Contribute to 10+ open source repositories</td>
-  </tr>
-  <tr>
-    <td>⏳</td>
-    <td>Launch a personal portfolio & blog</td>
-  </tr>
-  <tr>
-    <td>⏳</td>
-    <td>Earn a cloud certification (AWS / GCP)</td>
-  </tr>
-</table>
-
----
-
-## 🤝 Connect With Me
+##  Connect With Me
 
 <div align="center">
 
@@ -192,5 +165,5 @@ status:    Always open to collaborate
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" />
 
 <div align="center">
-  <sub>⭐ If you like what I build, consider starring my repos — it genuinely means a lot!</sub>
+  <sub> If you like what I build, consider starring my repos — it genuinely means a lot!</sub>
 </div>
